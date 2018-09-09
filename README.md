@@ -1,4 +1,4 @@
-# PhotoshopUtilities
+# Photoshop Utilities
 A collection of small workflow enhancement scripts for Adobe Photoshop. 
 
 ### Batch Rename Layers
